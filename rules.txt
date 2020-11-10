@@ -1,0 +1,24 @@
+q00 ->q00 R
+q001->q001R
+q00x->q01xR
+q011->q02aR
+q021->q021L
+q02a->q02aL
+q02=->q02=L
+q02x->q03xL
+q031->q04aR
+q03a->q03aL
+q03 ->q06 R
+q04x->q04xR
+q04a->q04aR
+q04=->q04=R
+q041->q041R
+q04 ->q051R
+q05 ->q02 L
+q06a->q061R
+q06x->q07xR
+q07a->q07aR
+q071->q02aR
+q07=->q08=L
+q08a->q081L
+q08x->q09xH
